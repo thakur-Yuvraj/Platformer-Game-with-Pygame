@@ -1,4 +1,4 @@
-# Ninja-Game-with-pygame
+# Platformer-Ninja-Game-with-pygame
 
 # how to run the game
 
