@@ -1,6 +1,6 @@
 # Platformer-Ninja-Game-with-pygame
 
-# how to run the game
+# How to run the game
 
 There are two ways to run the game, first is simply run the main.exe file which would run the game.
 
