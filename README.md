@@ -17,6 +17,7 @@ Now you should be able to run the main.py and editor.py
 Movement - Arrow Keys are used for general movement
 
 walljump - up key + move towards wall
+
 dash - X key
 
 # Gameplay
